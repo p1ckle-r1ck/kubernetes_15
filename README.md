@@ -28,7 +28,7 @@ kubectl apply -f https://raw.githubusercontent.com/netology-code/kuber-homeworks
 
 ### Ответ
 
-    Ошбика резолва пода и другого неймспейса 
+    Ошбика резолва пода из другого неймспейса 
 ![alt text](screenshots/1.png)
 
     Указываем имя хоста с указанием нейспейса
